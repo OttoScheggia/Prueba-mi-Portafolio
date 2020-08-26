@@ -1,0 +1,35 @@
+body * {
+    margin: 0;
+    border: 0;
+    padding: 0;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.texto-parrafo {
+    line-height: 2.5;
+}
+
+
+
+.hero-section {
+    background-image: url('../img/bg_hero.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.text-hero {
+    padding-top: 500px;
+    padding-bottom: 50px;
+}
+
+h1, h2, h5 {
+    font-family: 'Oswald', sans-serif;
+}
+
+.bg-royalblue {
+    background-color: #4169e1;
+}
+
+.text-morado {
+    color: #660066;
+}
